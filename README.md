@@ -8,14 +8,6 @@ CoreGraphHandler.java` – Handles graph data and logic.
 Edge.java` – Defines the edge structure and weight.
 PrimsRoutingSimulator.java` – Main class with GUI and routing simulation.
 CN_CEP_2.jar` – Compiled runnable Java application.
-
-# Files:
-GitHubRepoLink.txt – Contains the GitHub repository URL:
-  > [https://github.com/mairu123/Computer_Networks](https://github.com/mairu123/Computer_Networks)
-CEP_Report.pdf` – Project report describing problem statement, methodology, and results.
-Project_Video.mp4` – Demonstration video of the running project, explaining edge cases and simulation.
-
-
 # How to Run the Project
  Using the `.jar` File
 1. Make sure Java 17+ is installed.
